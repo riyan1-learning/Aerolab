@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/4e3e969f28179c9b13f9b0cee7d667c2/glfw-populate.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/773d0deff2529d16fe7d04baf94278e8/glfw-populate-complete.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-build.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-configure.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-download.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-install.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-mkdir.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-patch.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-test.rule
+D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/4e3e969f28179c9b13f9b0cee7d667c2/glfw-populate.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/773d0deff2529d16fe7d04baf94278e8/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-build.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-download.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-install.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-test.rule"
+		},
+		{
+			"file" : "D:/Areolab/build/_deps/glfw-subbuild/CMakeFiles/e7cda12348cce9e547b6e44c3d47913e/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

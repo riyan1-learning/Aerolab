@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\e7cda12348cce9e547b6e44c3d47913e\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\773d0deff2529d16fe7d04baf94278e8\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\4e3e969f28179c9b13f9b0cee7d667c2\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Areolab\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C35E3D9B-C750-3BCF-AB87-7AC1F5E50584}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

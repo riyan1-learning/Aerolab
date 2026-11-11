@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\c88d2295f9dfd9483f6450c703972aa6\glm-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\a0dc9ac880e0561a55bf6368cebb95b4\glm-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\45c976092125bd900f3e9c90f3b73dc3\glm-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Areolab\build\_deps\glm-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Areolab\build\_deps\glm-subbuild\CMakeFiles\glm-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{625CB273-5BC7-31C2-8159-DE3CC329D40D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
